@@ -1,0 +1,52 @@
+{
+  "responses": [
+    {
+      "category": "personal",
+      "key_words": ["nombre", "name", "who", "quien"],
+      "responses": {
+        "es": "Mi nombre es Juan Vicente Reyes, pero me puedes llamar Juanvi",
+        "en": "My name is Juan Vicente Reyes, but you can call me Juanvi"
+      }
+    },
+    {
+      "category": "personal",
+      "key_words": ["edad", "age", "años", "old"],
+      "responses": {
+        "es": "Tengo 36 años",
+        "en": "I'm 36 years old"
+      }
+    },
+    {
+      "category": "personal",
+      "key_words": ["hobbies", "pasatiempos", "hobby"],
+      "responses": {
+        "es": "Me gusta programar, jugar videojuegos y ver series",
+        "en": "I like programming, playing video games and watching series"
+      }
+    },
+    {
+      "category": "professional",
+      "key_words": ["trabajo", "job", "ocupacion", "labor", "oficio", "position"],
+      "responses": {
+        "es": "Soy ingeniero de software",
+        "en": "I'm a software engineer"
+      }
+    },
+    {
+      "category": "professional",
+      "key_words": ["habilidades", "skills", "aptitudes", "abilities", "lenguajes", "languages"],
+      "responses": {
+        "es": "Tengo habilidades en Python, PHP, JavaScript y Typescript",
+        "en": "I have skills in Python, PHP, JavaScript and Typescript"
+      }
+    },
+    {
+      "category": "professional",
+      "key_words": ["lenguaje favorito", "favourite language", "lenguaje preferido", "preferred language"],
+      "responses": {
+        "es": "Mi lenguaje favorito es TypeScript, me parece que le da superpoderes a JavaScript",
+        "en": "My favourite language is TypeScript, I think that it gives superpowers to JavaScript"
+      }
+    }
+  ]
+}
